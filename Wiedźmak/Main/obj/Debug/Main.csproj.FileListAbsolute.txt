@@ -1,0 +1,13 @@
+C:\Users\kkuch\source\repos\Wiedźmak\Main\bin\Debug\Main.exe.config
+C:\Users\kkuch\source\repos\Wiedźmak\Main\bin\Debug\Main.exe
+C:\Users\kkuch\source\repos\Wiedźmak\Main\bin\Debug\Main.pdb
+C:\Users\kkuch\source\repos\Wiedźmak\Main\bin\Debug\Wiedzmak.dll
+C:\Users\kkuch\source\repos\Wiedźmak\Main\bin\Debug\Wiedzmak.pdb
+C:\Users\kkuch\source\repos\Wiedźmak\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\kkuch\source\repos\Wiedźmak\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\kkuch\source\repos\Wiedźmak\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\kkuch\source\repos\Wiedźmak\Main\obj\Debug\Main.exe
+C:\Users\kkuch\source\repos\Wiedźmak\Main\obj\Debug\Main.pdb
+C:\Users\kkuch\source\repos\Wiedźmak\Main\bin\Debug\Music\Witcher.wav
+C:\Users\kkuch\source\repos\Wiedźmak\Main\bin\Debug\BPotwory.dll
+C:\Users\kkuch\source\repos\Wiedźmak\Main\bin\Debug\BPotwory.pdb

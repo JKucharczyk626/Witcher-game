@@ -1,0 +1,9 @@
+C:\Users\kkuch\source\repos\Wiedźmak\Wiedzmak\bin\Debug\Wiedzmak.dll
+C:\Users\kkuch\source\repos\Wiedźmak\Wiedzmak\bin\Debug\Wiedzmak.pdb
+C:\Users\kkuch\source\repos\Wiedźmak\Wiedzmak\obj\Debug\Wiedzmak.csprojAssemblyReference.cache
+C:\Users\kkuch\source\repos\Wiedźmak\Wiedzmak\obj\Debug\Wiedzmak.csproj.CoreCompileInputs.cache
+C:\Users\kkuch\source\repos\Wiedźmak\Wiedzmak\obj\Debug\Wiedzmak.dll
+C:\Users\kkuch\source\repos\Wiedźmak\Wiedzmak\obj\Debug\Wiedzmak.pdb
+C:\Users\kkuch\source\repos\Wiedźmak\Wiedzmak\bin\Debug\BPotwory.dll
+C:\Users\kkuch\source\repos\Wiedźmak\Wiedzmak\bin\Debug\BPotwory.pdb
+C:\Users\kkuch\source\repos\Wiedźmak\Wiedzmak\obj\Debug\Wiedzmak.csproj.CopyComplete

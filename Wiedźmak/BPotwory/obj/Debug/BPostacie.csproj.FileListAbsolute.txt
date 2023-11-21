@@ -1,0 +1,6 @@
+C:\Users\kkuch\source\repos\Wiedźmak\BPotwory\bin\Debug\BPotwory.dll
+C:\Users\kkuch\source\repos\Wiedźmak\BPotwory\bin\Debug\BPotwory.pdb
+C:\Users\kkuch\source\repos\Wiedźmak\BPotwory\obj\Debug\BPostacie.csprojAssemblyReference.cache
+C:\Users\kkuch\source\repos\Wiedźmak\BPotwory\obj\Debug\BPostacie.csproj.CoreCompileInputs.cache
+C:\Users\kkuch\source\repos\Wiedźmak\BPotwory\obj\Debug\BPotwory.dll
+C:\Users\kkuch\source\repos\Wiedźmak\BPotwory\obj\Debug\BPotwory.pdb
